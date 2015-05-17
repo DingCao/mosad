@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="homework_win8_week7.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:homework_win8_week7"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="Input" HorizontalAlignment="Left" Height="51" Margin="225,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" FontSize="25"/>
+        <Button x:ConnectionId='1' x:Name="SearchBtn" Content="Search" HorizontalAlignment="Left" Height="51" Margin="654,222,0,0" VerticalAlignment="Top" Width="146" FontSize="20"                     />
+        <TextBlock HorizontalAlignment="Left" Height="48" Margin="261,146,0,0" TextWrapping="Wrap" Text="Where is it？？" VerticalAlignment="Top" Width="536" FontSize="38"/>
+        <Grid HorizontalAlignment="Left" Height="215" Margin="225,409,0,0" VerticalAlignment="Top" Width="572">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="手机号：" VerticalAlignment="Top" Height="46" Width="142" FontSize="30"/>
+            <TextBlock HorizontalAlignment="Left" Margin="0,51,0,0" TextWrapping="Wrap" Text="归属地：" VerticalAlignment="Top" Height="40" Width="142" FontSize="30"/>
+            <TextBlock x:Name="From" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="46" Width="294" FontSize="30" Margin="147,46,0,0"/>
+            <TextBlock x:Name="phoneNumber" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="46" Width="294" FontSize="30" Margin="147,0,0,0"/>
+        </Grid>
+        <TextBlock x:Name="status" HorizontalAlignment="Left" Margin="530,687,0,0" TextWrapping="Wrap" Text="" FontSize="27" VerticalAlignment="Top"/>
+    </Grid>
+</Page>
+

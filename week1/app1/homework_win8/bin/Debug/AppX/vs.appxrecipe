@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DC</Machine>
+    <WindowsUser>DC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>185f36f4-a05d-4728-b33f-513422d1b205</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0A9573FCB0551F0C896AD3D6655474CC4AA863156FE9518C73CB80ACF01EAF24</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>185f36f4-a05d-4728-b33f-513422d1b205_1.0.0.0_neutral__k1r9czehm9ajc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>185f36f4-a05d-4728-b33f-513422d1b205_k1r9czehm9ajc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>185f36f4-a05d-4728-b33f-513422d1b205</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-06T07:48:34.984</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\homework_win8.exe">
+      <PackagePath>homework_win8.exe</PackagePath>
+      <Modified>2015-03-10T06:26:17.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-06T07:48:34.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-10T03:22:50.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\homework_win8.xr.xml">
+      <PackagePath>homework_win8.xr.xml</PackagePath>
+      <Modified>2015-03-06T10:25:42.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8\homework_win8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-06T07:48:34.817</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

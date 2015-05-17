@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DC</Machine>
+    <WindowsUser>DC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f39dd1a9-6beb-4f07-af05-ee99845f8a74</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D1058A6AD305F4A4082625E47ECC764DF58AAAED12DD280C281C63C7819773AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f39dd1a9-6beb-4f07-af05-ee99845f8a74_1.0.0.0_neutral__k1r9czehm9ajc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f39dd1a9-6beb-4f07-af05-ee99845f8a74_k1r9czehm9ajc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f39dd1a9-6beb-4f07-af05-ee99845f8a74</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T13:54:14.305</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\homework_win8_week2.exe">
+      <PackagePath>homework_win8_week2.exe</PackagePath>
+      <Modified>2015-03-15T13:53:09.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\geminds2013_jcc_960.jpg">
+      <PackagePath>Assets\星空\geminds2013_jcc_960.jpg</PackagePath>
+      <Modified>2015-03-15T03:42:11.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\IceNightPanTafreshi-s.jpg">
+      <PackagePath>Assets\星空\IceNightPanTafreshi-s.jpg</PackagePath>
+      <Modified>2015-03-15T03:30:22.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\m104colombari_q100_watermark1024c.jpg">
+      <PackagePath>Assets\星空\m104colombari_q100_watermark1024c.jpg</PackagePath>
+      <Modified>2015-03-15T03:46:58.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\mice_hubble_1080.jpg">
+      <PackagePath>Assets\星空\mice_hubble_1080.jpg</PackagePath>
+      <Modified>2015-03-15T03:47:37.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\SevenStrongSky_sergei_960.jpg">
+      <PackagePath>Assets\星空\SevenStrongSky_sergei_960.jpg</PackagePath>
+      <Modified>2015-03-15T03:48:00.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\TheWinterShowerJiaHao.jpg">
+      <PackagePath>Assets\星空\TheWinterShowerJiaHao.jpg</PackagePath>
+      <Modified>2015-03-15T03:48:34.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\Assets\星空\蟹状星云.jpg">
+      <PackagePath>Assets\星空\蟹状星云.jpg</PackagePath>
+      <Modified>2015-03-15T03:30:49.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-15T13:53:09.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\animation.xbf">
+      <PackagePath>animation.xbf</PackagePath>
+      <Modified>2015-03-15T13:53:09.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-15T13:53:09.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\homework_win8_week2.xr.xml">
+      <PackagePath>homework_win8_week2.xr.xml</PackagePath>
+      <Modified>2015-03-15T13:40:38.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\documents\visual studio 2013\Projects\homework_win8_week2\homework_win8_week2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-15T13:54:14.192</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+﻿<Application x:Class="MvvmLight1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			 xmlns:ignore="http://www.ignore.com"
+             mc:Ignorable="d ignore"
+             xmlns:vm="using:MvvmLight1.ViewModel">
+
+    <Application.Resources>
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">MvvmLight1</x:String>
+
+        <vm:ViewModelLocator x:Key="Locator"
+                             d:IsDataSource="True" />
+    </Application.Resources>
+</Application>
+

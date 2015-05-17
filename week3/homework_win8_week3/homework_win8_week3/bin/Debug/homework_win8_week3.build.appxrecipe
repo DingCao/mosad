@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DC</Machine>
+    <WindowsUser>DC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d00c9be6-ff8e-4bf4-9460-7404c1493a28</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\homework_win8_week3.exe">
+      <PackagePath>homework_win8_week3.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\AYANO.jpg">
+      <PackagePath>Assets\阳炎\AYANO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\ENE.jpg">
+      <PackagePath>Assets\阳炎\ENE.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\HIBIYA_HIYOLI.jpg">
+      <PackagePath>Assets\阳炎\HIBIYA_HIYOLI.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KANO.jpg">
+      <PackagePath>Assets\阳炎\KANO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KIDO.jpg">
+      <PackagePath>Assets\阳炎\KIDO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KONOHA.jpg">
+      <PackagePath>Assets\阳炎\KONOHA.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MARI.jpg">
+      <PackagePath>Assets\阳炎\MARI.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MekakuCityActors.jpg">
+      <PackagePath>Assets\阳炎\MekakuCityActors.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MOMO.jpg">
+      <PackagePath>Assets\阳炎\MOMO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\SETO.jpg">
+      <PackagePath>Assets\阳炎\SETO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\SHINTALO.jpg">
+      <PackagePath>Assets\阳炎\SHINTALO.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\homework_win8_week3.xr.xml">
+      <PackagePath>homework_win8_week3.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

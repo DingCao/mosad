@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DC</Machine>
+    <WindowsUser>DC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d00c9be6-ff8e-4bf4-9460-7404c1493a28</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D572040FECE860ECAED41A7E9CC46B6FD4AA287E6D666A7AA153C5A0313FB048</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d00c9be6-ff8e-4bf4-9460-7404c1493a28_1.0.0.0_neutral__k1r9czehm9ajc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d00c9be6-ff8e-4bf4-9460-7404c1493a28_k1r9czehm9ajc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d00c9be6-ff8e-4bf4-9460-7404c1493a28</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T03:19:52.786</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\homework_win8_week3.exe">
+      <PackagePath>homework_win8_week3.exe</PackagePath>
+      <Modified>2015-03-22T03:19:52.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T03:15:30.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T03:15:30.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T03:23:55.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\AYANO.jpg">
+      <PackagePath>Assets\阳炎\AYANO.jpg</PackagePath>
+      <Modified>2015-03-21T09:32:31.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\ENE.jpg">
+      <PackagePath>Assets\阳炎\ENE.jpg</PackagePath>
+      <Modified>2015-03-21T09:30:11.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\HIBIYA_HIYOLI.jpg">
+      <PackagePath>Assets\阳炎\HIBIYA_HIYOLI.jpg</PackagePath>
+      <Modified>2015-03-21T09:31:43.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KANO.jpg">
+      <PackagePath>Assets\阳炎\KANO.jpg</PackagePath>
+      <Modified>2015-03-21T09:29:38.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KIDO.jpg">
+      <PackagePath>Assets\阳炎\KIDO.jpg</PackagePath>
+      <Modified>2015-03-21T09:29:17.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\KONOHA.jpg">
+      <PackagePath>Assets\阳炎\KONOHA.jpg</PackagePath>
+      <Modified>2015-03-21T09:32:05.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MARI.jpg">
+      <PackagePath>Assets\阳炎\MARI.jpg</PackagePath>
+      <Modified>2015-03-21T09:29:51.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MekakuCityActors.jpg">
+      <PackagePath>Assets\阳炎\MekakuCityActors.jpg</PackagePath>
+      <Modified>2015-03-21T09:28:30.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\MOMO.jpg">
+      <PackagePath>Assets\阳炎\MOMO.jpg</PackagePath>
+      <Modified>2015-03-21T09:30:02.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\SETO.jpg">
+      <PackagePath>Assets\阳炎\SETO.jpg</PackagePath>
+      <Modified>2015-03-21T09:29:28.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\Assets\阳炎\SHINTALO.jpg">
+      <PackagePath>Assets\阳炎\SHINTALO.jpg</PackagePath>
+      <Modified>2015-03-21T09:30:27.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-21T11:46:35.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-21T15:04:13.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\homework_win8_week3.xr.xml">
+      <PackagePath>homework_win8_week3.xr.xml</PackagePath>
+      <Modified>2015-03-21T14:49:07.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wqw\Documents\Visual Studio 2013\Projects\homework_win8_week3\homework_win8_week3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-22T03:19:52.661</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
